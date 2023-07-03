@@ -16,3 +16,44 @@ h1 {
 h2 {
     font-size: 1.5em;
 }
+
+a {
+    text-decoration: none;
+}
+
+img {
+    height: 90%;
+    border-radius: 25px;
+}
+
+.center {
+    text-align: center;
+}
+
+.food {
+    text-align: center;
+    padding: 15px;
+}
+
+.recipe {
+    background-color: blanchedalmond;
+    border-radius: 25px;
+    display: inline-block;
+    margin: 25px;
+    padding: 25px;
+    height: 300px;
+}
+
+.one {
+    display: block;
+    margin: auto;
+    width: fit-content;
+}
+
+.bottom {
+    text-align: center;
+}
+
+.three {
+    margin-left: 0;
+}
